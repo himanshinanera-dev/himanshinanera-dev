@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Himanshi Nanera
 
 ### 💻 IT Student | Aspiring Software Developer
 
