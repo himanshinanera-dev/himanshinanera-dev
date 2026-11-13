@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! 👋 I'm [Your Name]
 
-<!--
-**himanshinanera-dev/himanshinanera-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 IT Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology, coding, and exploring how AI can solve real-world problems.
+
+### 🚀 About Me
+- 🎓 IT Student
+- 🌱 Currently learning Java and Web Development
+- 💡 Love exploring new technologies and building projects
+- 🎯 Working towards becoming a skilled software developer
+
+### 🛠️ Technologies I'm Exploring
+- Java
+- HTML
+- CSS
+- JavaScript
+- python
+
+### 📌 My Goals
+- Build real-world projects
+- Improve my programming skills
+- Explore AI-powered applications
+- Contribute to meaningful projects
+
+### ✨ My Motto
+"Learning today, building tomorrow."
+
+Thanks for visiting my profile! 😊
